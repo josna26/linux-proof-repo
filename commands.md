@@ -4,10 +4,10 @@
 <img src="screenshots/04-commands (2).jpeg" width="400">
 <img src="screenshots/05-commands (3).jpeg" width="400">
 
-### whoami
+##### whoami
 Displays the username of the currently logged-in user.
 
-### pwd
+##### pwd
 Shows the full path of the current working directory.
 
 ### mkdir <folder_name>
@@ -31,7 +31,7 @@ Lists all the files in a directory, including the hidden files.
 ### cd <folder_name> 
 Changes the current directory to the specified folder.
 
-### mv <file_name> <path/of/new/location> (or) mv <file1_name> <file2_name>
+### mv <file_name> <destination_path> (or) mv <file1_name> <file2_name>
 Moves a file to a new location or renames it.
 
 ### top
