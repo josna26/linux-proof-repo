@@ -25,6 +25,20 @@ The documentation includes proof of dual boot installation, terminal command exe
 
 ---
 
+## 🖥️ Dual Boot Proof
+
+The system is configured in a dual boot environment where both Kali Linux and Windows 11 are available from the boot menu.
+
+### 🔹 Boot Menu
+
+<img src="screenshots/01-boot_menu.jpeg" width="500">
+
+### 🔹 Kali Linux Desktop
+
+<img src="screenshots/02-kali_desktop.jpeg" width="500">
+
+---
+
 ## 🚀 Purpose
 
 This repository serves as foundational proof of Linux familiarity and marks the beginning of deeper exploration into cybersecurity tools and practices using Kali Linux.
